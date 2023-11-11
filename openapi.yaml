@@ -1,0 +1,7 @@
+openapi: 3.0.1
+info:
+  title: Quiztion
+  description: Delivers quick, accurate answers to quiz questions.
+  version: 'v1'
+servers:
+  - url: [YOUR_DOMAIN, must be HTTPS]
